@@ -410,7 +410,7 @@ function VacanciesList({vacancies, allvacancies}) {
         <div className="all-vacancies">
             <ul>
                 {vacancies.map((vacancy, index) => {
-                    const isResponded = respondedStates[index] && respondedStates[index].isResponded;
+                    const isResponded = respondedStates[index] && respondedStates[index];
                     const count = respondedCount[index] && respondedCount[index].responseCount;
 
                     return (
