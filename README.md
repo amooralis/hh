@@ -1,3 +1,15 @@
+
+<img width="392" alt="Снимок экрана 2023-11-27 в 16 10 07" src="https://github.com/amooralis/hh/assets/71789031/fca1d1c8-2e24-42eb-8dae-56a511346ef6">
+<img width="1438" alt="Снимок экрана 2023-11-27 в 16 12 44" src="https://github.com/amooralis/hh/assets/71789031/3ca393f2-1266-4f2a-b5a9-7cb5751b72df">
+<img width="1438" alt="Снимок экрана 2023-11-27 в 16 13 51" src="https://github.com/amooralis/hh/assets/71789031/78561bd2-edfe-44ff-8fd2-4102a60d0c46">
+<img width="1436" alt="Снимок экрана 2023-11-27 в 16 14 01" src="https://github.com/amooralis/hh/assets/71789031/398ec2bb-3c61-4e26-9b0f-40663910f06e">
+<img width="1440" alt="Снимок экрана 2023-11-27 в 16 14 13" src="https://github.com/amooralis/hh/assets/71789031/560440ab-3e7d-4677-b8c9-70dad320f03f">
+<img width="1440" alt="Снимок экрана 2023-11-27 в 16 15 04" src="https://github.com/amooralis/hh/assets/71789031/91a396e8-d2b6-450f-a713-130af1af819e">
+<img width="1438" alt="Снимок экрана 2023-11-27 в 16 14 32" src="https://github.com/amooralis/hh/assets/71789031/63289210-2037-4557-b582-48ecb458ade8">
+<img width="1436" alt="Снимок экрана 2023-11-27 в 16 14 45" src="https://github.com/amooralis/hh/assets/71789031/f6fb64a0-bd57-4526-a876-0ab306342e5d">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
