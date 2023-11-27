@@ -327,6 +327,8 @@ ul {
     height: 70%;
     max-height: 70%;
     max-width: 70%;
+    min-height: 500px;
+    min-width: 500px;
     padding: 4%;
     background-color: white;
 }
